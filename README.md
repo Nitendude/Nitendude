@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitendude
+- 👋 Hi, I’m @JohnPM
 - 👀 I’m interested in Programming and Customs Brokerage
 - 🌱 I’m currently learning Java and HTML. I'm currently a 3rd year Student in the Philppines.
 - 💞️ I’m looking to collaborate on any projects that I can help with
